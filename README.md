@@ -12,9 +12,9 @@
 * **Lecture name:** Database
 * **Lecture Code:** IT004
 * **Class Code:** IT004.N11.KHTN
-* **Year:** Semester 1(2021 - 2022)
+* **Year:** Semester 1(2022 - 2023)
 * **Lecturer**:  
-  - Trương Thu Thủy - *thuytt@uit.edu.vn*  
-  - Huỳnh Thiện Ý - *yht@uit.edu.vn*
+  - Theory - Trương Thu Thủy - *thuytt@uit.edu.vn*  
+  - Practice - Huỳnh Thiện Ý - *yht@uit.edu.vn*
 <!-- Footer -->
-<p align='center'>Copyright © 2021 - Lương Toàn Bách</p>
+<p align='center'>Copyright © 2022 - Lương Toàn Bách</p>
